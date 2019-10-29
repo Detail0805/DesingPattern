@@ -1,4 +1,4 @@
-package com.atguigu.composite;
+package com.detail0805.composite;
 
 public abstract class OrganizationComponent {
 

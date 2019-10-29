@@ -1,4 +1,4 @@
-package com.atguigu.iterator;
+package com.detail0805.iterator;
 
 //系
 public class Department {

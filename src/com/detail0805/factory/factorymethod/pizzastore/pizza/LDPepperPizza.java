@@ -1,4 +1,4 @@
-package com.atguigu.factory.factorymethod.pizzastore.pizza;
+package com.detail0805.factory.factorymethod.pizzastore.pizza;
 
 public class LDPepperPizza extends Pizza{
 	@Override

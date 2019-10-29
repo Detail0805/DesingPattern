@@ -1,4 +1,4 @@
-package com.atguigu.builder.improve;
+package com.detail0805.builder.improve;
 
 //指揮者，這裡去指定製作流程，返回產品
 public class HouseDirector {

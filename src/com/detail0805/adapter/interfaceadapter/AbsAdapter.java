@@ -1,4 +1,4 @@
-package com.atguigu.adapter.interfaceadapter;
+package com.detail0805.adapter.interfaceadapter;
 
 //在AbsAdapter 我們將 Interface4 的方法進行預設實現
 public abstract class AbsAdapter implements Interface4 {

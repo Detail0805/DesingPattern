@@ -1,4 +1,4 @@
-package com.atguigu.mediator.smarthouse;
+package com.detail0805.mediator.smarthouse;
 
 //同事抽像類
 public abstract class Colleague {

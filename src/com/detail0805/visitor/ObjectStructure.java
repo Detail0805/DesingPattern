@@ -1,4 +1,4 @@
-package com.atguigu.visitor;
+package com.detail0805.visitor;
 
 import java.util.LinkedList;
 import java.util.List;

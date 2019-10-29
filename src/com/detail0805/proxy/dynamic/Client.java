@@ -1,4 +1,4 @@
-package com.atguigu.proxy.dynamic;
+package com.detail0805.proxy.dynamic;
 
 public class Client {
 

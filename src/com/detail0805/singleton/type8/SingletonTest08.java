@@ -1,4 +1,4 @@
-package com.atguigu.singleton.type8;
+package com.detail0805.singleton.type8;
 
 public class SingletonTest08 {
 	public static void main(String[] args) {

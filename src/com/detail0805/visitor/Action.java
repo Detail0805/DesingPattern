@@ -1,4 +1,4 @@
-package com.atguigu.visitor;
+package com.detail0805.visitor;
 
 public abstract class Action {
 	

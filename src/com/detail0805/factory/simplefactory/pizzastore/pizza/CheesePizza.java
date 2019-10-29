@@ -1,4 +1,4 @@
-package com.atguigu.factory.simplefactory.pizzastore.pizza;
+package com.detail0805.factory.simplefactory.pizzastore.pizza;
 
 public class CheesePizza extends Pizza {
 

@@ -1,4 +1,4 @@
-package com.atguigu.observer.improve;
+package com.detail0805.observer.improve;
 
 import java.util.ArrayList;
 

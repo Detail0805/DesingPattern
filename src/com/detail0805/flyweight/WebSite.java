@@ -1,4 +1,4 @@
-package com.atguigu.flyweight;
+package com.detail0805.flyweight;
 
 public abstract class WebSite {
 

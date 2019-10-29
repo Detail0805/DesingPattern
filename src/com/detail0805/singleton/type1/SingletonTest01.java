@@ -1,4 +1,4 @@
-package com.atguigu.singleton.type1;
+package com.detail0805.singleton.type1;
 
 public class SingletonTest01 {
 

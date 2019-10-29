@@ -1,4 +1,4 @@
-package com.atguigu.strategy.improve;
+package com.detail0805.strategy.improve;
 
 public class NoFlyBehavior implements FlyBehavior{
 

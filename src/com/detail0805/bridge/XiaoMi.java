@@ -1,4 +1,4 @@
-package com.atguigu.bridge;
+package com.detail0805.bridge;
 
 public class XiaoMi implements Brand {
 

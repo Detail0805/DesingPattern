@@ -1,4 +1,4 @@
-package com.atguigu.template.improve;
+package com.detail0805.template.improve;
 
 public class PureSoyaMilk extends SoyaMilk{
 

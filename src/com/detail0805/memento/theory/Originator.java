@@ -1,4 +1,4 @@
-package com.atguigu.memento.theory;
+package com.detail0805.memento.theory;
 
 public class Originator {
 

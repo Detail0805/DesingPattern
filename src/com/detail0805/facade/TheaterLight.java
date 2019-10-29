@@ -1,4 +1,4 @@
-package com.atguigu.facade;
+package com.detail0805.facade;
 
 public class TheaterLight {
 

@@ -1,4 +1,4 @@
-package com.atguigu.proxy.staticproxy;
+package com.detail0805.proxy.staticproxy;
 
 //代理對像,靜態代理
 public class TeacherDaoProxy implements ITeacherDao{

@@ -1,4 +1,4 @@
-package com.atguigu.proxy.cglib;
+package com.detail0805.proxy.cglib;
 
 public class TeacherDao {
 

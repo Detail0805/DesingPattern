@@ -1,4 +1,4 @@
-package com.atguigu.observer;
+package com.detail0805.observer;
 
 /**
  * 顯示目前天氣情況（可以理解成是氣象站自己的網站）

@@ -1,4 +1,4 @@
-package com.atguigu.prototype;
+package com.detail0805.prototype;
 
 public class Sheep {
 	private String name;

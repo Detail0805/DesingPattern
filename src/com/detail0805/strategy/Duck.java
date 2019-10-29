@@ -1,4 +1,4 @@
-package com.atguigu.strategy;
+package com.detail0805.strategy;
 
 public abstract class Duck {
 

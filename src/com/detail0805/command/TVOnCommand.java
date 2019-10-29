@@ -1,4 +1,4 @@
-package com.atguigu.command;
+package com.detail0805.command;
 
 public class TVOnCommand implements Command {
 

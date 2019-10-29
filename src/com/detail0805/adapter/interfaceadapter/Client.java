@@ -1,4 +1,4 @@
-package com.atguigu.adapter.interfaceadapter;
+package com.detail0805.adapter.interfaceadapter;
 
 public class Client {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.atguigu.uml.implementation;
+package com.detail0805.uml.implementation;
 
 public class PersonServiceBean implements PersonService{
 

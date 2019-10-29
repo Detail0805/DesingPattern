@@ -1,4 +1,4 @@
-package com.atguigu.builder;
+package com.detail0805.builder;
 
 public abstract class AbstractHouse {
 	

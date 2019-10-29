@@ -1,4 +1,4 @@
-package com.atguigu.bridge;
+package com.detail0805.bridge;
 
 
 //摺疊式手機類，繼承 抽像類 Phone

@@ -1,4 +1,4 @@
-package com.atguigu.adapter.objectadapter;
+package com.detail0805.adapter.objectadapter;
 
 public class Phone {
 

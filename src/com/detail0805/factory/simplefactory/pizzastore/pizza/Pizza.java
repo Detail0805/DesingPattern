@@ -1,4 +1,4 @@
-package com.atguigu.factory.simplefactory.pizzastore.pizza;
+package com.detail0805.factory.simplefactory.pizzastore.pizza;
 
 //將Pizza 類做成抽像
 public abstract class Pizza {

@@ -1,4 +1,4 @@
-package com.atguigu.factory.simplefactory.pizzastore.order;
+package com.detail0805.factory.simplefactory.pizzastore.order;
 
 import com.atguigu.factory.simplefactory.pizzastore.pizza.CheesePizza;
 import com.atguigu.factory.simplefactory.pizzastore.pizza.GreekPizza;

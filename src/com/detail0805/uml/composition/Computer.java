@@ -1,4 +1,4 @@
-package com.atguigu.uml.composition;
+package com.detail0805.uml.composition;
 
 public class Computer {
 	private Mouse mouse = new Mouse(); //滑鼠可以和computer不能分離

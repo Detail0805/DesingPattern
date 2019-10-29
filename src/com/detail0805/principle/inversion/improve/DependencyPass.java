@@ -1,4 +1,4 @@
-package com.atguigu.principle.inversion.improve;
+package com.detail0805.principle.inversion.improve;
 
 public class DependencyPass {
 

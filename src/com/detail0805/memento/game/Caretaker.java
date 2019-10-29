@@ -1,4 +1,4 @@
-package com.atguigu.memento.game;
+package com.detail0805.memento.game;
 
 import java.util.ArrayList;
 import java.util.HashMap;

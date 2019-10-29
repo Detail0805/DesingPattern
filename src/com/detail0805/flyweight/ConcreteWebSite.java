@@ -1,4 +1,4 @@
-package com.atguigu.flyweight;
+package com.detail0805.flyweight;
 
 //具體網站
 public class ConcreteWebSite extends WebSite {

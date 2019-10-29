@@ -1,4 +1,4 @@
-package com.atguigu.money;
+package com.detail0805.money;
 
 /**測試類*/
 public class ClientTest {

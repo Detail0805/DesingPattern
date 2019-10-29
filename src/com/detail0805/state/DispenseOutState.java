@@ -1,4 +1,4 @@
-package com.atguigu.state;
+package com.detail0805.state;
 
 /**
  * 獎品發放完畢狀態

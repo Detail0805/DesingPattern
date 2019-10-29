@@ -1,4 +1,4 @@
-package com.atguigu.mediator.smarthouse;
+package com.detail0805.mediator.smarthouse;
 
 //具體的同事類
 public class Alarm extends Colleague {

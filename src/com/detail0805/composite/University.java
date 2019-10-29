@@ -1,4 +1,4 @@
-package com.atguigu.composite;
+package com.detail0805.composite;
 
 import java.util.ArrayList;
 import java.util.List;

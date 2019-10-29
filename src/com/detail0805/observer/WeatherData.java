@@ -1,4 +1,4 @@
-package com.atguigu.observer;
+package com.detail0805.observer;
 
 /**
  * 類是核心

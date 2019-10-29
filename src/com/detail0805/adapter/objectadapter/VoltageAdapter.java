@@ -1,4 +1,4 @@
-package com.atguigu.adapter.objectadapter;
+package com.detail0805.adapter.objectadapter;
 
 //適配器類
 public class VoltageAdapter  implements IVoltage5V {

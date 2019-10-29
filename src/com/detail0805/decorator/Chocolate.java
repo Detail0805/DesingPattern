@@ -1,4 +1,4 @@
-package com.atguigu.decorator;
+package com.detail0805.decorator;
 
 //具體的Decorator， 這裡就是調味品
 public class Chocolate extends Decorator {

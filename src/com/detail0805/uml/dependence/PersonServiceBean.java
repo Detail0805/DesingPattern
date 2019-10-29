@@ -1,4 +1,4 @@
-package com.atguigu.uml.dependence;
+package com.detail0805.uml.dependence;
 
 public class PersonServiceBean {
 	private PersonDao personDao;// 類

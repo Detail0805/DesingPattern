@@ -1,4 +1,4 @@
-package com.atguigu.state;
+package com.detail0805.state;
 
 /**
  * 狀態模式測試類

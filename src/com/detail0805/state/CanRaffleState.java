@@ -1,4 +1,4 @@
-package com.atguigu.state;
+package com.detail0805.state;
 
 import java.util.Random;
 

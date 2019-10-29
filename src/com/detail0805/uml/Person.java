@@ -1,4 +1,4 @@
-package com.atguigu.uml;
+package com.detail0805.uml;
 
 public class Person{ //程式碼形式->類圖
 	private Integer id;

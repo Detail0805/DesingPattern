@@ -1,4 +1,4 @@
-package com.atguigu.prototype.improve;
+package com.detail0805.prototype.improve;
 
 
 

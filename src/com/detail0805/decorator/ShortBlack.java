@@ -1,4 +1,4 @@
-package com.atguigu.decorator;
+package com.detail0805.decorator;
 
 public class ShortBlack extends Coffee{
 	

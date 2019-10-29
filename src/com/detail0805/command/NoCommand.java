@@ -1,4 +1,4 @@
-package com.atguigu.command;
+package com.detail0805.command;
 
 /**
  * 沒有任何命令，即空執行: 用於初始化每個按鈕, 當呼叫空命令時，對像什麼都不做

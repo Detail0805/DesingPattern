@@ -1,4 +1,4 @@
-package com.atguigu.template;
+package com.detail0805.template;
 
 public class RedBeanSoyaMilk extends SoyaMilk {
 

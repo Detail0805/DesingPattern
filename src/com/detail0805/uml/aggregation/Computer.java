@@ -1,4 +1,4 @@
-package com.atguigu.uml.aggregation;
+package com.detail0805.uml.aggregation;
 
 public class Computer {
 	private Mouse mouse; //滑鼠可以和computer分離

@@ -1,4 +1,4 @@
-package com.atguigu.template;
+package com.detail0805.template;
 
 //抽像類，表示豆漿
 public abstract class SoyaMilk {

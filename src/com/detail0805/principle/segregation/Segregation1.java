@@ -1,4 +1,4 @@
-package com.atguigu.principle.segregation;
+package com.detail0805.principle.segregation;
 
 public class Segregation1 {
 

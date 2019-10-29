@@ -1,4 +1,4 @@
-package com.atguigu.interpreter;
+package com.detail0805.interpreter;
 
 import java.util.HashMap;
 import java.util.Stack;

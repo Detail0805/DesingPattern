@@ -1,4 +1,4 @@
-package com.atguigu.builder.improve;
+package com.detail0805.builder.improve;
 
 //產品->Product
 public class House {

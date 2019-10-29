@@ -1,4 +1,4 @@
-package com.atguigu.proxy.staticproxy;
+package com.detail0805.proxy.staticproxy;
 
 public class Client {
 

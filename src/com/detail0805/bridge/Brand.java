@@ -1,4 +1,4 @@
-package com.atguigu.bridge;
+package com.detail0805.bridge;
 
 //介面
 public interface Brand {

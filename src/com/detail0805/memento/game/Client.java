@@ -1,4 +1,4 @@
-package com.atguigu.memento.game;
+package com.detail0805.memento.game;
 
 public class Client {
 

@@ -1,4 +1,4 @@
-package com.atguigu.adapter.classadapter;
+package com.detail0805.adapter.classadapter;
 
 
 //適配介面

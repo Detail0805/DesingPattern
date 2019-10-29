@@ -1,4 +1,4 @@
-package com.atguigu.observer.improve;
+package com.detail0805.observer.improve;
 
 //觀察者介面，有觀察者來實現
 public interface Observer {

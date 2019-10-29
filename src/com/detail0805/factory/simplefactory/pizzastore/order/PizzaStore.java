@@ -1,4 +1,4 @@
-package com.atguigu.factory.simplefactory.pizzastore.order;
+package com.detail0805.factory.simplefactory.pizzastore.order;
 
 //相當於一個客戶端，發出訂購
 public class PizzaStore {

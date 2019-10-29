@@ -1,4 +1,4 @@
-package com.atguigu.prototype.deepclone;
+package com.detail0805.prototype.deepclone;
 
 import java.io.Serializable;
 

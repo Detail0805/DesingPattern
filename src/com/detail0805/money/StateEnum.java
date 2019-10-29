@@ -1,4 +1,4 @@
-package com.atguigu.money;
+package com.detail0805.money;
 
 /**
  * 狀態列舉類

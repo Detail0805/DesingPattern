@@ -1,4 +1,4 @@
-package com.atguigu.principle.demeter;
+package com.detail0805.principle.demeter;
 
 import java.util.ArrayList;
 import java.util.List;

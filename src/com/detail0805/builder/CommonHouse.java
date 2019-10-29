@@ -1,4 +1,4 @@
-package com.atguigu.builder;
+package com.detail0805.builder;
 
 public class CommonHouse extends AbstractHouse {
 

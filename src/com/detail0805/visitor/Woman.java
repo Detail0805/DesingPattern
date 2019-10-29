@@ -1,4 +1,4 @@
-package com.atguigu.visitor;
+package com.detail0805.visitor;
 
 //說明
 //1. 這裡我們使用到了雙分派, 即首先在客戶端程式中，將具體狀態作為參數傳遞Woman中(第一次分派)

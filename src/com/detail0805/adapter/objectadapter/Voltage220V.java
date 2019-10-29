@@ -1,4 +1,4 @@
-package com.atguigu.adapter.objectadapter;
+package com.detail0805.adapter.objectadapter;
 
 //被適配的類
 public class Voltage220V {

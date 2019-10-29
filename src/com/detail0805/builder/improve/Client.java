@@ -1,4 +1,4 @@
-package com.atguigu.builder.improve;
+package com.detail0805.builder.improve;
 
 public class Client {
 	public static void main(String[] args) {

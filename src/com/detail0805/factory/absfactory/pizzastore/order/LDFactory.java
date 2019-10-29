@@ -1,4 +1,4 @@
-package com.atguigu.factory.absfactory.pizzastore.order;
+package com.detail0805.factory.absfactory.pizzastore.order;
 
 
 import com.atguigu.factory.absfactory.pizzastore.pizza.LDCheesePizza;

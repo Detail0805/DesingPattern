@@ -1,4 +1,4 @@
-package com.atguigu.mediator.smarthouse;
+package com.detail0805.mediator.smarthouse;
 
 public abstract class Mediator {
 	//將給中介者對象，加入到集合中

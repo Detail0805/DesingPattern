@@ -1,4 +1,4 @@
-package com.atguigu.iterator;
+package com.detail0805.iterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;

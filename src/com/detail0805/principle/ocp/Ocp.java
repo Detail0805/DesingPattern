@@ -1,4 +1,4 @@
-package com.atguigu.principle.ocp;
+package com.detail0805.principle.ocp;
 
 public class Ocp {
 

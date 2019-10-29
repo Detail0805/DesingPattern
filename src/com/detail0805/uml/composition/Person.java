@@ -1,4 +1,4 @@
-package com.atguigu.uml.composition;
+package com.detail0805.uml.composition;
 
 public class Person {
     private IDCard card; //聚合關係

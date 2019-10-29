@@ -1,4 +1,4 @@
-package com.atguigu.responsibilitychain;
+package com.detail0805.responsibilitychain;
 
 public class ViceSchoolMasterApprover extends Approver {
 
