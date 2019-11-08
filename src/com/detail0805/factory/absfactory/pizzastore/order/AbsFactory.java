@@ -1,6 +1,6 @@
 package com.detail0805.factory.absfactory.pizzastore.order;
 
-import com.atguigu.factory.absfactory.pizzastore.pizza.Pizza;
+import com.detail0805.factory.absfactory.pizzastore.pizza.Pizza;
 
 //一個抽像工廠模式的抽像層(介面)
 public interface AbsFactory {

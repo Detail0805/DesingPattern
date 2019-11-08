@@ -1,9 +1,8 @@
 package com.detail0805.factory.factorymethod.pizzastore.order;
 
-import com.atguigu.factory.factorymethod.pizzastore.pizza.LDCheesePizza;
-import com.atguigu.factory.factorymethod.pizzastore.pizza.LDPepperPizza;
-import com.atguigu.factory.factorymethod.pizzastore.pizza.Pizza;
-
+import com.detail0805.factory.factorymethod.pizzastore.pizza.LDCheesePizza;
+import com.detail0805.factory.factorymethod.pizzastore.pizza.LDPepperPizza;
+import com.detail0805.factory.factorymethod.pizzastore.pizza.Pizza;
 
 public class LDOrderPizza extends OrderPizza {
 

@@ -13,6 +13,16 @@ public class DeepCloneableTarget implements Serializable, Cloneable {
 
 	private String cloneClass;
 
+	
+	public Testrec testrec;
+	
+	public DeepCloneableTarget(String cloneName, String cloneClass, Testrec testrec) {
+		super();
+		this.cloneName = cloneName;
+		this.cloneClass = cloneClass;
+		this.testrec = testrec;
+	}
+
 	//構造器
 	public DeepCloneableTarget(String cloneName, String cloneClass) {
 		this.cloneName = cloneName;

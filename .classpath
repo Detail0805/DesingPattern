@@ -2,9 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="src/com/atguigu/proxy/cglib/asm-commons.jar"/>
-	<classpathentry kind="lib" path="src/com/atguigu/proxy/cglib/asm-tree.jar"/>
-	<classpathentry kind="lib" path="src/com/atguigu/proxy/cglib/asm.jar"/>
-	<classpathentry kind="lib" path="src/com/atguigu/proxy/cglib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/meteo/Desktop/JAVAJAR/asm-7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/meteo/Desktop/JAVAJAR/cglib-2.2.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

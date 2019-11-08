@@ -1,8 +1,8 @@
 package com.detail0805.factory.absfactory.pizzastore.order;
 
-import com.atguigu.factory.absfactory.pizzastore.pizza.BJCheesePizza;
-import com.atguigu.factory.absfactory.pizzastore.pizza.BJPepperPizza;
-import com.atguigu.factory.absfactory.pizzastore.pizza.Pizza;
+import com.detail0805.factory.absfactory.pizzastore.pizza.BJCheesePizza;
+import com.detail0805.factory.absfactory.pizzastore.pizza.BJPepperPizza;
+import com.detail0805.factory.absfactory.pizzastore.pizza.Pizza;
 
 //這是工廠子類
 public class BJFactory implements AbsFactory {

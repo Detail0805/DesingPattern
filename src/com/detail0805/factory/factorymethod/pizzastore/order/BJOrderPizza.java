@@ -1,9 +1,8 @@
 package com.detail0805.factory.factorymethod.pizzastore.order;
 
-import com.atguigu.factory.factorymethod.pizzastore.pizza.BJCheesePizza;
-import com.atguigu.factory.factorymethod.pizzastore.pizza.BJPepperPizza;
-import com.atguigu.factory.factorymethod.pizzastore.pizza.Pizza;
-
+import com.detail0805.factory.factorymethod.pizzastore.pizza.BJCheesePizza;
+import com.detail0805.factory.factorymethod.pizzastore.pizza.BJPepperPizza;
+import com.detail0805.factory.factorymethod.pizzastore.pizza.Pizza;
 
 public class BJOrderPizza extends OrderPizza {
 

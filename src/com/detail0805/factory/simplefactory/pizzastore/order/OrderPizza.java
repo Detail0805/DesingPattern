@@ -4,8 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+import com.detail0805.factory.simplefactory.pizzastore.pizza.Pizza;
 
-import com.atguigu.factory.simplefactory.pizzastore.pizza.Pizza;
+
 
 public class OrderPizza {
 
